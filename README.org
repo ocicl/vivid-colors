@@ -1,0 +1,10 @@
+* vivid-colors
+
+colored object printer for common lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/vivid-colors.git   |
+| commit  | {"messa  |
+| systems | vivid-colors |
+|---------+-------------------------------------------|
+
