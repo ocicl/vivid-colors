@@ -4,7 +4,7 @@ colored object printer for common lisp.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/hyotang666/vivid-colors.git   |
-| commit  | {"messa  |
+| commit  | e9965a3  |
 | systems | vivid-colors |
 |---------+-------------------------------------------|
 
