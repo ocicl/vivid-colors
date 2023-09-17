@@ -2,9 +2,8 @@
 
 colored object printer for common lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/hyotang666/vivid-colors.git   |
-| commit  | e9965a3  |
-| systems | vivid-colors |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------------------------------------------|
+| source  | git:https://github.com/hyotang666/vivid-colors.git                                         |
+| commit  | e9965a3                                                                                    |
+| systems | vivid-colors vivid-colors.shared vivid-colors.queue vivid-colors.content vivid-colors.stream |
+|---------+--------------------------------------------------------------------------------------------|
